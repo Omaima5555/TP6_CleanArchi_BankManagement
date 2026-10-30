@@ -1,0 +1,584 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\services\\compteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\services\\compteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPTOP\\Desktop\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPTOP\\Desktop\\llllll.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.api\\controllers\\comptecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\controllers\\comptecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|solutionrelative:cleanarch.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.infrastructure\\repositories\\compterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|solutionrelative:cleanarch.infrastructure\\repositories\\compterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.infrastructure\\cleanarch.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|solutionrelative:cleanarch.infrastructure\\cleanarch.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Migrations\\20261030042212_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArch.Infrastructure\\Migrations\\20261030042212_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.api\\cleanarch.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\cleanarch.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF52D052-42C9-0E00-CF03-8025270D8C89}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\cleanarch.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\cleanarch.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\interfaces\\services\\icompteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\interfaces\\services\\icompteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\interfaces\\repositories\\icompterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\interfaces\\repositories\\icompterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\dtos\\virementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\dtos\\virementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\dtos\\createoperationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\dtos\\createoperationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\dtos\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\dtos\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\dtos\\updatecomptedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\dtos\\updatecomptedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\dtos\\createcomptedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\dtos\\createcomptedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\dtos\\comptedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\dtos\\comptedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.domain\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.domain\\entities\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.domain\\entities\\typeoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\typeoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.domain\\entities\\typecompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\typecompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.domain\\cleanarch.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\cleanarch.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|solutionrelative:cleanarch.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513314C4-9DC2-6E9F-516C-FB227F0AAEA4}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE7875-D4AB-503D-BCF3-D640DA3B8D59}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\comptesbancaires\\cleanarch.infrastructure\\migrations\\20261030051207_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA861A-5778-8832-89E4-82892C1221B8}|CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj|solutionrelative:cleanarch.infrastructure\\migrations\\20261030051207_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAPTOP\\Desktop\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompteService.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Services\\CompteService.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Services\\CompteService.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Services\\CompteService.cs",
+              "RelativeToolTip": "CleanArch.Application\\Services\\CompteService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:06:39.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "llllll.sql",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\llllll.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\LAPTOP\\Desktop\\llllll.sql",
+              "ToolTip": "C:\\Users\\LAPTOP\\Desktop\\llllll.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\LAPTOP\\Desktop\\llllll.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-30T05:26:47.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CleanArch.API.csproj",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\CleanArch.API.csproj",
+              "RelativeDocumentMoniker": "CleanArch.API\\CleanArch.API.csproj",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\CleanArch.API.csproj",
+              "RelativeToolTip": "CleanArch.API\\CleanArch.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T04:55:15.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompteController.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\Controllers\\CompteController.cs",
+              "RelativeDocumentMoniker": "CleanArch.API\\Controllers\\CompteController.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\Controllers\\CompteController.cs",
+              "RelativeToolTip": "CleanArch.API\\Controllers\\CompteController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:09:45.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CleanArch.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj",
+              "RelativeToolTip": "CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T04:55:45.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArch.API\\Program.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\Program.cs",
+              "RelativeToolTip": "CleanArch.API\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:03:00.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\Desktop\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\LAPTOP\\Desktop\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-30T05:24:06.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20261030051207_dbcreate.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Migrations\\20261030051207_dbcreate.cs",
+              "RelativeDocumentMoniker": "CleanArch.Infrastructure\\Migrations\\20261030051207_dbcreate.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Migrations\\20261030051207_dbcreate.cs",
+              "RelativeToolTip": "CleanArch.Infrastructure\\Migrations\\20261030051207_dbcreate.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:12:08.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArch.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CleanArch.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:51:40.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompteRepository.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Repositories\\CompteRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Infrastructure\\Repositories\\CompteRepository.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Repositories\\CompteRepository.cs",
+              "RelativeToolTip": "CleanArch.Infrastructure\\Repositories\\CompteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:54:04.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20261030042212_dbcreate.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Migrations\\20261030042212_dbcreate.cs",
+              "RelativeDocumentMoniker": "CleanArch.Infrastructure\\Migrations\\20261030042212_dbcreate.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Migrations\\20261030042212_dbcreate.cs",
+              "RelativeToolTip": "CleanArch.Infrastructure\\Migrations\\20261030042212_dbcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:22:13.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArch.API\\appsettings.json",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\appsettings.json",
+              "RelativeToolTip": "CleanArch.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T04:15:52.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CleanArch.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CleanArch.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T04:04:14.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CleanArch.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "CleanArch.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:06:42.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Mappings\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Mappings\\MappingExtensions.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Mappings\\MappingExtensions.cs",
+              "RelativeToolTip": "CleanArch.Application\\Mappings\\MappingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:05:26.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CleanArch.Application.csproj",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\CleanArch.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArch.Application\\CleanArch.Application.csproj",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\CleanArch.Application.csproj",
+              "RelativeToolTip": "CleanArch.Application\\CleanArch.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T04:54:24.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICompteService.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Interfaces\\Services\\ICompteService.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Interfaces\\Services\\ICompteService.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Interfaces\\Services\\ICompteService.cs",
+              "RelativeToolTip": "CleanArch.Application\\Interfaces\\Services\\ICompteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:04:37.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICompteRepository.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Interfaces\\Repositories\\ICompteRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Interfaces\\Repositories\\ICompteRepository.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Interfaces\\Repositories\\ICompteRepository.cs",
+              "RelativeToolTip": "CleanArch.Application\\Interfaces\\Repositories\\ICompteRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:02:06.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VirementDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\VirementDTO.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\VirementDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\VirementDTO.cs",
+              "RelativeToolTip": "CleanArch.Application\\DTOs\\VirementDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:01:06.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateOperationDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\CreateOperationDTO.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\CreateOperationDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\CreateOperationDTO.cs",
+              "RelativeToolTip": "CleanArch.Application\\DTOs\\CreateOperationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:00:29.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OperationDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\OperationDTO.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\OperationDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\OperationDTO.cs",
+              "RelativeToolTip": "CleanArch.Application\\DTOs\\OperationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T13:59:51.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateCompteDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\UpdateCompteDTO.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\UpdateCompteDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\UpdateCompteDTO.cs",
+              "RelativeToolTip": "CleanArch.Application\\DTOs\\UpdateCompteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T13:59:14.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCompteDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\CreateCompteDTO.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\CreateCompteDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\CreateCompteDTO.cs",
+              "RelativeToolTip": "CleanArch.Application\\DTOs\\CreateCompteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T13:58:34.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompteDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\CompteDTO.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\CompteDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\DTOs\\CompteDTO.cs",
+              "RelativeToolTip": "CleanArch.Application\\DTOs\\CompteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T13:57:27.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "CleanArch.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T13:56:16.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\Operation.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Operation.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\Operation.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Entities\\Operation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:43:00.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TypeOperation.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\TypeOperation.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\TypeOperation.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\TypeOperation.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Entities\\TypeOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:21:11.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TypeCompte.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\TypeCompte.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\TypeCompte.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\TypeCompte.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Entities\\TypeCompte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:19:14.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:01:06.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Client.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Entities\\Client.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:22:30.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Compte.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\Compte.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Compte.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Entities\\Compte.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Entities\\Compte.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:37:38.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CleanArch.Domain.csproj",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\CleanArch.Domain.csproj",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\CleanArch.Domain.csproj",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\CleanArch.Domain.csproj",
+              "RelativeToolTip": "CleanArch.Domain\\CleanArch.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T05:00:14.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArch.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "CleanArch.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:53:11.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Class1.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Application\\Class1.cs",
+              "RelativeToolTip": "CleanArch.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:52:45.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Class1.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ComptesBancaires\\CleanArch.Domain\\Class1.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:52:17.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

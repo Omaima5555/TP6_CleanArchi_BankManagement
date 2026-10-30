@@ -1,0 +1,12 @@
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\bin\Debug\net10.0\CleanArch.Domain.deps.json
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\bin\Debug\net10.0\CleanArch.Domain.dll
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\bin\Debug\net10.0\CleanArch.Domain.pdb
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\CleanArch.Domain.AssemblyInfo.cs
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\CleanArch.Domain.dll
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\refint\CleanArch.Domain.dll
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\CleanArch.Domain.pdb
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\ref\CleanArch.Domain.dll
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ComptesBancaires\CleanArch.Domain\obj\Debug\net10.0\CleanArc.6A09CCBC.Up2Date
